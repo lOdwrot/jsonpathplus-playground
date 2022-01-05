@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/jsonpathplus-playground/static/js/main.ef36346d.js",
+    "static/js/787.14d25239.chunk.js": "/jsonpathplus-playground/static/js/787.14d25239.chunk.js",
+    "index.html": "/jsonpathplus-playground/index.html",
+    "main.ef36346d.js.map": "/jsonpathplus-playground/static/js/main.ef36346d.js.map",
+    "787.14d25239.chunk.js.map": "/jsonpathplus-playground/static/js/787.14d25239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef36346d.js"
+  ]
+}
